@@ -4,7 +4,7 @@ description: Systematically examine any inference from observed data to unobserv
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4225
+  version: 1.0.4226
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - induction-audit
